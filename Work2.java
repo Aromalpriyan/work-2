@@ -1,6 +1,3 @@
-# Work 2
-# Arrays And Number Handling
-```
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
@@ -32,5 +29,3 @@ public class Work2 {
     return result;
     }
 }
-```
-[githublink]()
